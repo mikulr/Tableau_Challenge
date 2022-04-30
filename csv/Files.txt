@@ -1,0 +1,15 @@
+Files downloaded from CitiBike Data Portal
+
+https://s3.amazonaws.com/tripdata/202110-citibike-tripdata.csv.zip
+https://s3.amazonaws.com/tripdata/202111-citibike-tripdata.csv.zip
+https://s3.amazonaws.com/tripdata/202112-citibike-tripdata.csv.zip
+https://s3.amazonaws.com/tripdata/202201-citibike-tripdata.csv.zip
+https://s3.amazonaws.com/tripdata/202202-citibike-tripdata.csv.zip
+https://s3.amazonaws.com/tripdata/202203-citibike-tripdata.csv.zip
+
+https://s3.amazonaws.com/tripdata/JC-202110-citibike-tripdata.csv.zip
+https://s3.amazonaws.com/tripdata/JC-202111-citibike-tripdata.csv.zip
+https://s3.amazonaws.com/tripdata/JC-202112-citibike-tripdata.csv.zip
+https://s3.amazonaws.com/tripdata/JC-202201-citibike-tripdata.csv.zip
+https://s3.amazonaws.com/tripdata/JC-202202-citibike-tripdata.csv.zip
+https://s3.amazonaws.com/tripdata/JC-202203-citibike-tripdata.csv.zip
